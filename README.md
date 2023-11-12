@@ -18,9 +18,9 @@ This is a slot machine game that allows users to play and simulate the experienc
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Input deposit amount (0 to 100)<br/>
+![image](https://github.com/AlexanderStroer/SlotMachine/assets/122342684/0e38236c-68d2-4b59-89db-68ce932fdbf1)
+ <br />
 
 </p>
 
