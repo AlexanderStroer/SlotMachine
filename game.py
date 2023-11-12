@@ -152,7 +152,7 @@ def get_deposit():
     while True:
         try:
             amount = int(input("What would you like to deposit?: "))
-            if 0 < amount < MAX_DEPOSIT:
+            if 0 <= amount <= MAX_DEPOSIT:
                 break
             else:
                 print("Please insert a number greater than 0 and less than 100")
