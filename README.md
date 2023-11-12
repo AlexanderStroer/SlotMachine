@@ -22,11 +22,11 @@ Input deposit amount (0 to 100)<br/>
 <br />
 <img width="700" alt="Input deposit amount" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/aa8e73c0-40c3-46d8-9bbe-8c7f75ddbe27">
 <br />
-Input lines to bet on ()<br/>
+Input lines to bet on (1-3)<br/>
 <br />
 <img width="700" alt="Input lines to bet on" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/d1defbb2-0b5c-4ad8-84c5-9c4fc5b8448a">
 <br />
-Input bet amount ()<br/>
+Input bet amount (bet_amount * lines = total_bet)<br/>
 <br />
 <img width="700" alt="Input bet amount" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/f0280cbb-af44-46e0-bc09-ddc114c568af">
 <br />
