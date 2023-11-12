@@ -38,7 +38,14 @@ Wait for user input to continue or quit<br/>
 <br />
 <img width="700" alt="Continue or quit?" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/635866b0-4226-4375-bf0b-11675a259407">
 <br />
-
+Continue to play until balance reaches 0<br/>
+<br />
+<img width="700" alt="Continue or quit?" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/8ec68240-cb58-420a-8144-a109b2295f6e">
+<br />
+Example game play with a win<br/>
+<br />
+<img width="700" alt="Continue or quit?" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/a6cb9564-55cf-40c3-a68e-c3d0a5d0d8a8">
+<br />
 
 </p>
 
