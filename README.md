@@ -19,8 +19,8 @@ This is a slot machine game that allows users to play and simulate the experienc
 
 <p align="center">
 Input deposit amount (0 to 100)<br/>
-![image](https://github.com/AlexanderStroer/SlotMachine/assets/122342684/0e38236c-68d2-4b59-89db-68ce932fdbf1)
- <br />
+<img src="https://imgur.com/sYC82al" height="80%" width="80%" alt="Insert deposit amount"/>
+<br />
 
 </p>
 
