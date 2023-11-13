@@ -53,7 +53,7 @@ def play_check():
 
 # Function to simulate a spin and calculate winnings
 def spin(balance):
-    lines = get_lines()
+    lines = get_lines(balance)
     while True:
         bet = get_bet()
         total_bet = bet * lines
@@ -98,10 +98,13 @@ def print_spin(columns):
         print()
 
 # Function to get the number of lines the player wants to bet on
-def get_lines():
+def get_lines(balance):
     while True:
         try:
             lines = int(input("How many lines would you like to bet on? (1-3): "))
+            if lines > balance:
+                print("You can't bet that much! (Lines exceed balance)")
+                continue
             if 1 <= lines <= 3:
                 break
             else:
